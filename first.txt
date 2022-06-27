@@ -3,3 +3,5 @@ gitの練習をしていきます。
 
 test
 test2
+・git add
+・git commmit
